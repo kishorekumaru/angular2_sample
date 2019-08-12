@@ -1,0 +1,30 @@
+{
+  "name": "angular2_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishorekumaru/angular2_sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishorekumaru/angular2_sample/issues"
+  },
+  "homepage": "https://github.com/kishorekumaru/angular2_sample#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.5.5",
+    "babel-jest": "^24.8.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "karma": "^4.2.0",
+    "parcel-bundler": "^1.12.3"
+  }
+}
